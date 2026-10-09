@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 6h | 3 |
+| Week 1 | Tier 1 | 6.5h | 3 |
 
 ## Contents
 
@@ -44,7 +44,7 @@ I made the PCB schematic and design today. I had no previous experience using Ki
 
 ### 2026-10-07 – Hello! Today I got a picture of the 3D render of the Starbie (Most electronic components didn't appear because they don't have 3D models). I also set up my github and put in the project.kicad_pcb and
 
-**1h**
+**1.5h**
 
 Hello! Today I got a picture of the 3D render of the Starbie (Most electronic components didn't appear because they don't have 3D models). I also set up my github and put in the project.kicad_pcb and project.kicad_sch files into it. It took me a while (and a load of Youtube videos) to figure out how to use Github because I had never used it before. Thanks for reading my journal. :D
 
